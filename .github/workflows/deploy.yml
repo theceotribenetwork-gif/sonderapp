@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - claude/setup-github-pages-VvVqr
   workflow_dispatch:
 
 permissions:
